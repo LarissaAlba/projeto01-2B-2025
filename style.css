@@ -5,8 +5,27 @@ background-color: blueviolet;
 
 }
 .primeira-secao{
-    width: 276px;
-    height: 154px;
-    background-color: red;
+width: 276px;
+height: 154px;
+background-color: red;
     
     }
+.segunda-secao{
+ width: 274px;
+ height: 12px;
+ background-color: green;
+        
+        }
+ .terceira-secao{
+  width: 193px;
+  height: 78px;
+  background-color: yellowgreen;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+            }
+.rodape{
+    width: 265px;
+    height: 91px;
+    background-color: rgb(66, 170, 255);
+}
